@@ -1,2 +1,3 @@
 # hello-world
 Just another repository
+Ovde bi trebalo da pisem nesto o sebi... mada to je samo test a ovo sto kuckam je samo meso ovog testa lorem ipsum bla bla bla bal...
